@@ -29,13 +29,5 @@ public class Main {
                 System.out.println("Hatalı Seçim Yaptınız");
 
         }
-
-
-
-
-
-
-
-
     }
 }
