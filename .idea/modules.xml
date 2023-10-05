@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Week1/ATMProjesi/ATMProjesi.iml" filepath="$PROJECT_DIR$/Week1/ATMProjesi/ATMProjesi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2/AdvancedCalculator/AdvancedCalculator.iml" filepath="$PROJECT_DIR$/Week2/AdvancedCalculator/AdvancedCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/AritmetikIslemler/AritmetikIslemler.iml" filepath="$PROJECT_DIR$/Week1/AritmetikIslemler/AritmetikIslemler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/ArtikYil/ArtikYil.iml" filepath="$PROJECT_DIR$/Week1/ArtikYil/ArtikYil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/AsalSayilar/AsalSayilar.iml" filepath="$PROJECT_DIR$/Week1/AsalSayilar/AsalSayilar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/BirSayininBasmakSayilariniToplayanProgram/BirSayininBasmakSayilariniToplayanProgram.iml" filepath="$PROJECT_DIR$/Week1/BirSayininBasmakSayilariniToplayanProgram/BirSayininBasmakSayilariniToplayanProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/BurcBulanProgram/BurcBulanProgram.iml" filepath="$PROJECT_DIR$/Week1/BurcBulanProgram/BurcBulanProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/CiftveDordunKati/CiftveDordunKati.iml" filepath="$PROJECT_DIR$/Week1/CiftveDordunKati/CiftveDordunKati.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/CinZodyagi/CinZodyagi.iml" filepath="$PROJECT_DIR$/Week1/CinZodyagi/CinZodyagi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/DaireninAlanveCevresi/DaireninAlanveCevresi.iml" filepath="$PROJECT_DIR$/Week1/DaireninAlanveCevresi/DaireninAlanveCevresi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/DortveBesinKatiniBulanProgram/DortveBesinKatiniBulanProgram.iml" filepath="$PROJECT_DIR$/Week1/DortveBesinKatiniBulanProgram/DortveBesinKatiniBulanProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/EbobEkokHesaplayanProgram/EbobEkokHesaplayanProgram.iml" filepath="$PROJECT_DIR$/Week1/EbobEkokHesaplayanProgram/EbobEkokHesaplayanProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2/ExponentialNumberCalculation/ExponentialNumberCalculation.iml" filepath="$PROJECT_DIR$/Week2/ExponentialNumberCalculation/ExponentialNumberCalculation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/FibonacciSerisi/FibonacciSerisi.iml" filepath="$PROJECT_DIR$/Week1/FibonacciSerisi/FibonacciSerisi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2/HarmonicAverageCalculator/HarmonicAverageCalculator.iml" filepath="$PROJECT_DIR$/Week2/HarmonicAverageCalculator/HarmonicAverageCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/HarmonikSeriHesaplayanProgram/HarmonikSeriHesaplayanProgram.iml" filepath="$PROJECT_DIR$/Week1/HarmonikSeriHesaplayanProgram/HarmonikSeriHesaplayanProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/HavaSicakliginaGoreEtkinlik/HavaSicakliginaGoreEtkinlik.iml" filepath="$PROJECT_DIR$/Week1/HavaSicakliginaGoreEtkinlik/HavaSicakliginaGoreEtkinlik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/HesapMakinesi/HesapMakinesi.iml" filepath="$PROJECT_DIR$/Week1/HesapMakinesi/HesapMakinesi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/KDVTutarHesaplayanProgram/KDVTutarHesaplayanProgram.iml" filepath="$PROJECT_DIR$/Week1/KDVTutarHesaplayanProgram/KDVTutarHesaplayanProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/KombinasyonHesaplayanProgram/KombinasyonHesaplayanProgram.iml" filepath="$PROJECT_DIR$/Week1/KombinasyonHesaplayanProgram/KombinasyonHesaplayanProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/KullaniciGirisi/KullaniciGirisi.iml" filepath="$PROJECT_DIR$/Week1/KullaniciGirisi/KullaniciGirisi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/ManavKasaProgram/ManavKasaProgram.iml" filepath="$PROJECT_DIR$/Week1/ManavKasaProgram/ManavKasaProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2/MethodbyPattern/MethodbyPattern.iml" filepath="$PROJECT_DIR$/Week2/MethodbyPattern/MethodbyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/MinMaxDegerleriBulma/MinMaxDegerleriBulma.iml" filepath="$PROJECT_DIR$/Week1/MinMaxDegerleriBulma/MinMaxDegerleriBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/MukemmelSayiHesaplama/MukemmelSayiHesaplama.iml" filepath="$PROJECT_DIR$/Week1/MukemmelSayiHesaplama/MukemmelSayiHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/NotOrtalamasiHesaplama/NotOrtalamasiHesaplama.iml" filepath="$PROJECT_DIR$/Week1/NotOrtalamasiHesaplama/NotOrtalamasiHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/OnikiyeTamBolunme/OnikiyeTamBolunme.iml" filepath="$PROJECT_DIR$/Week1/OnikiyeTamBolunme/OnikiyeTamBolunme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2/PalindromeNumber/PalindromeNumber.iml" filepath="$PROJECT_DIR$/Week2/PalindromeNumber/PalindromeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2/PrimeNumber/PrimeNumber.iml" filepath="$PROJECT_DIR$/Week2/PrimeNumber/PrimeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projects/Projects.iml" filepath="$PROJECT_DIR$/Projects/Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2/SalaryCalculation/SalaryCalculation.iml" filepath="$PROJECT_DIR$/Week2/SalaryCalculation/SalaryCalculation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/SayiKucuktoBuyuk/SayiKucuktoBuyuk.iml" filepath="$PROJECT_DIR$/Week1/SayiKucuktoBuyuk/SayiKucuktoBuyuk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/SinifGecmeDurumu/SinifGecmeDurumu.iml" filepath="$PROJECT_DIR$/Week1/SinifGecmeDurumu/SinifGecmeDurumu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/TaksimetreHesaplayanProgram/TaksimetreHesaplayanProgram.iml" filepath="$PROJECT_DIR$/Week1/TaksimetreHesaplayanProgram/TaksimetreHesaplayanProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/TersUcgenCizenProgram/TersUcgenCizenProgram.iml" filepath="$PROJECT_DIR$/Week1/TersUcgenCizenProgram/TersUcgenCizenProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/TipDonusumleri/TipDonusumleri.iml" filepath="$PROJECT_DIR$/Week1/TipDonusumleri/TipDonusumleri.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/UcakBiletiFiyat/UcakBiletiFiyat.iml" filepath="$PROJECT_DIR$/Week1/UcakBiletiFiyat/UcakBiletiFiyat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/UcgenAlanHesaplama/UcgenAlanHesaplama.iml" filepath="$PROJECT_DIR$/Week1/UcgenAlanHesaplama/UcgenAlanHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/UsluSayiHesaplama/UsluSayiHesaplama.iml" filepath="$PROJECT_DIR$/Week1/UsluSayiHesaplama/UsluSayiHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/VucutKitleEndeksHesaplayanProgram/VucutKitleEndeksHesaplayanProgram.iml" filepath="$PROJECT_DIR$/Week1/VucutKitleEndeksHesaplayanProgram/VucutKitleEndeksHesaplayanProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week3/Week3.iml" filepath="$PROJECT_DIR$/Week3/Week3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/YildizileElmasYapimi/YildizileElmasYapimi.iml" filepath="$PROJECT_DIR$/Week1/YildizileElmasYapimi/YildizileElmasYapimi.iml" />
+    </modules>
+  </component>
+</project>
