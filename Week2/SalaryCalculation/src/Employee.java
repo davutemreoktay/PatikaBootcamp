@@ -29,7 +29,7 @@ public class Employee {
     }
     public double raiseSalary(){
         if (2021-this.hireYears<10){
-            return this.salary*0.5;
+            return this.salary*0.05;
         }
         else if (2021-this.hireYears>9 && 2021-this.hireYears<20){
             return this.salary*0.1;
